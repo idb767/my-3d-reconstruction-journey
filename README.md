@@ -1,2 +1,3 @@
 # my-3d-reconstruction-journey
 My learning journey in 3D reconstruction. Math background, cross-majoring into CS. Currently learning Python and computer vision.
+A few days ago,registered github,but I did anything.Because I'm worried about my career.I'm girl,I alway hair I will be look dwon upon in workplace.But，I don't want to worry about these thhings now.I'm  pianning to do something.I'm preparing for the postgraduate entrance examination,studying the field of algorithms.I know it's difficult.Anyway,people alway can'tplan too much.So,I'll try 3d-reconstruction first.The progress might be slow.If you have any good suggestions,please feel free to leave a message and I will humbly seek your advice.  
